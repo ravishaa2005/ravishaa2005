@@ -3,7 +3,7 @@
 **B.Tech, Computer Science and Engineering**  
 Vivekananda Institute of Professional Studies – Technical Campus  
 
-Final-year Computer Science student with a strong foundation in Java backend development, full-stack web technologies, and applied machine learning.
+Final-year Computer Science student with a strong foundation in Java backend development, full-stack web technologies, and applied machine learning.    
 Passionate about exploring the frontiers of technology and its transformative potential, with a focus on building efficient, scalable, and impactful software solutions.
 
 ### Technical Skills

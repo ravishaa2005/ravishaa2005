@@ -39,7 +39,7 @@ Passionate about exploring the frontiers of technology and its transformative po
 
 ### Contact
 
-**Email:** [ravishaa2005@gmail.com](mailto:ravishaa2005@gmail.com)  
+**Email:** [ravishaa05@gmail.com](mailto:ravishaa05@gmail.com)  
 **LinkedIn:** [linkedin.com/in/ravisha-arora](https://www.linkedin.com/in/ravisha-arora)
 
 *Currently exploring opportunities in backend development, data analytics, and AI-driven systems.*

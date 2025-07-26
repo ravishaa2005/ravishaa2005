@@ -35,7 +35,7 @@ Passionate about exploring the frontiers of technology and its transformative po
 
 ### Internship Experience
 - Data Analytics Intern – NITI Aayog
-- Research Intern-Defence Research and Development Organisation (DRDO)
+- Research Intern - Defence Research and Development Organisation (DRDO)
 
 ### Contact
 
